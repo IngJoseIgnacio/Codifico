@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VhSvL/mzGVWOxOkEXWbvTop8f0PGLSgnI6rlN0CZjp8=",
+  "Source": "Api_SalesDatePrediction",
+  "BasePath": "_content/Api_SalesDatePrediction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
